@@ -1,0 +1,16 @@
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\bin\Debug\KPMGAddin.dll
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\bin\Debug\KPMGAddin.pdb
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\bin\Debug\KPMGAddin.dll.manifest
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\bin\Debug\KPMGAddin.vsto
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.csprojAssemblyReference.cache
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.Properties.Resources.resources
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.Ribbon1.resources
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.csproj.GenerateResource.cache
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.csproj.CopyComplete
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.dll
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.pdb
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\bin\Debug\KPMGAddin.dll.config
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\Interop.ADOX.dll
+C:\Users\Gergő\source\repos\KPMGAddin\KPMGAddin\obj\Debug\KPMGAddin.csproj.ResolveComReference.cache
